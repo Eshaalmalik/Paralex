@@ -18,7 +18,7 @@
     section {
         height: 100vh;
         width: 100%;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('./img/portfolio-2.jpg');
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('portfolio-2.jpg');
         background-repeat: no-repeat;
         background-size: 100% auto;
         background-attachment:fixed;
@@ -32,7 +32,7 @@
     .section-2 {
         background-repeat: no-repeat;
         background-size: 100% auto;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('./img/portfolio-1.jpg');
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('portfolio-1.jpg');
       
 
     }
@@ -40,7 +40,7 @@
     .section-3 {
         background-repeat: no-repeat;
         background-size: 100% auto;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('./img/portfolio-4.jpg');
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('portfolio-4.jpg');
         background-attachment: fixed;
       
 
@@ -49,7 +49,7 @@
     .section-4 {
         background-repeat: no-repeat;
         background-size: 100% auto;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('./img/portfolio-5.jpg');
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('portfolio-5.jpg');
         background-attachment: fixed;
        
     }
